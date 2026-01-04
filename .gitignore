@@ -1,0 +1,5 @@
+/book/
+/examples/target/
+/examples/Cargo.lock
+target
+.DS_Store
